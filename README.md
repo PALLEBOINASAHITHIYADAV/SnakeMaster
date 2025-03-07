@@ -55,4 +55,4 @@ Before running the game, make sure you have the following installed:
 ### Installation Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/grishma-gedela/Snake-Game.git
+   git clone https://github.com/PALLEBOINASAHITHIYADAV/SnakeMaster.git
